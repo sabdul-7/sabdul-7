@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Abdul Asif Syed
+# Abdul Syed
 
 Android Developer focused on building scalable and high-performance mobile applications using Kotlin and Jetpack Compose.
 
