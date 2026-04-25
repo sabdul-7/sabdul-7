@@ -1,16 +1,24 @@
 ## Hi there 👋
+# Abdul Asif Syed
 
-<!--
-**sabdul-7/sabdul-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer focused on building scalable and high-performance mobile applications using Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Kotlin, Java
+* Jetpack Compose, Android SDK
+* MVVM, Clean Architecture
+* Retrofit, Room, Firebase
+* Coroutines, StateFlow
+
+## About
+
+* Experience in developing user-centric Android apps
+* Worked on apps with 50K+ downloads
+* Strong focus on performance and clean architecture
+
+## Contact
+
+* Email: [abdulasifsyed07@gmail.com](mailto:abdulasifsyed07@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/abdul-syed-b89619322/
+
